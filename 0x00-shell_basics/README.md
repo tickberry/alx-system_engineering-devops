@@ -1,1 +1,1 @@
-This readme for home dir
+This is my script for long format
