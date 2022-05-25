@@ -1,1 +1,1 @@
-this readme for display
+This readme for home dir
