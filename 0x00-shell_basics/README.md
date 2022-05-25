@@ -1,1 +1,1 @@
-sub dir available for readme
+The absolute path to current directory
