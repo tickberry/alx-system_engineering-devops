@@ -1,0 +1,3 @@
+#!/bin/bash
+alias name = my_first_directory export PATH = /tmp/
+my_first_directory export /tmp/
