@@ -1,2 +1,1 @@
- this is my readme for redirectionn scriptts 
- a scrpit that displays a confused smiley 
+ this is a script that display  the content of the /etc/psswd 
