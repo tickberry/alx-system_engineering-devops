@@ -4,3 +4,4 @@
 3. task 3 a script path that let us ask where it leads
 a script that lists envirnoment variables
 5 task 5 a script that lists all local varialbes and evnironment variables
+6 task 6 a scripts that  creates a new local variable
