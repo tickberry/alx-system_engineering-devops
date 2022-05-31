@@ -10,3 +10,4 @@ a script that lists envirnoment variables
 9 taks 9a script that prints the result of power divided by DIVIDE followed by a new line
 10 task 10 a script that displays the result
  11-task 11 a sscript that converts a number from base 2 to base 10 
+a script that prints all possible combinations of two letters except 00
