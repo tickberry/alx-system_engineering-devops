@@ -9,3 +9,4 @@ a script that lists envirnoment variables
 8 task 8 ascript that adds true knowledge to human power
 9 taks 9a script that prints the result of power divided by DIVIDE followed by a new line
 10 task 10 a script that displays the result
+ 11-task 11 a sscript that converts a number from base 2 to base 10 
