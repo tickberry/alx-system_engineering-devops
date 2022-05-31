@@ -5,3 +5,4 @@
 a script that lists envirnoment variables
 5 task 5 a script that lists all local varialbes and evnironment variables
 6 task 6 a scripts that  creates a new local variable
+7. task 7 a script that creates a new gobal variable 
