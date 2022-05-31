@@ -12,3 +12,4 @@ a script that lists envirnoment variables
  11-task 11 a sscript that converts a number from base 2 to base 10 
 a script that prints all possible combinations of two letters except 00
 13. task 13 a scriipt that prints a number with two decimal places followed by a new line
+a script that convert a number from base 10 to base base 16
