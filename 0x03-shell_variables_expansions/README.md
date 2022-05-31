@@ -8,3 +8,4 @@ a script that lists envirnoment variables
 7. task 7 a script that creates a new gobal variable 
 8 task 8 ascript that adds true knowledge to human power
 9 taks 9a script that prints the result of power divided by DIVIDE followed by a new line
+10 task 10 a script that displays the result
