@@ -17,3 +17,4 @@ a script that displays the third line of the file iacta
  14 task a  script that displays lines containing the pattern root from the file
 15 task a script that  display the number of lines that contian the patern bin in the file /etc/passwd
  16 task 16 a script that  displays lines containing the pattern root and 3 lnes after them in the file
+17 task a script that displays all the lines in the file /etc/passwd that do not contain the partern bin
