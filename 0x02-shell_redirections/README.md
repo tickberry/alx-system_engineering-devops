@@ -20,3 +20,4 @@ a script that displays the third line of the file iacta
 17 task a script that displays all the lines in the file /etc/passwd that do not contain the partern bin
 18 task 18 a script that displays all line of the file /etc/ssh/sshd-config starting with a letter
 19 task 19 a script that replace all character A and C from input to Z and E  respectively
+20 task 20 A script that removes all letter C and C from input
