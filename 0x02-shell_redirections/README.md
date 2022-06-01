@@ -15,3 +15,4 @@ a script that displays the third line of the file iacta
  12 task a script that displays the 10 newest files in the current directory
 13 task 13 a script that takes a list of words as inputs and prints only words
  14 task a  script that displays lines containing the pattern root from the file
+15 task a script that  display the number of lines that contian the patern bin in the file /etc/passwd
