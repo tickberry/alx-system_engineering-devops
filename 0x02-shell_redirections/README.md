@@ -12,3 +12,4 @@ a script that displays the third line of the file iacta
 9 task 9 a script that duplicates the last line of the file iacta
 10 task 10 a script that deletes all the regular files (not directories) with a 'js extension
 11 task 11 a script that counts the number of directires an sub-directoires in the current directories
+ 12 task a script that displays the 10 newest files in the current directory
