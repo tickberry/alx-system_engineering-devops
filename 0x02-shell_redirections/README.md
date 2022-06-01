@@ -14,3 +14,4 @@ a script that displays the third line of the file iacta
 11 task 11 a script that counts the number of directires an sub-directoires in the current directories
  12 task a script that displays the 10 newest files in the current directory
 13 task 13 a script that takes a list of words as inputs and prints only words
+ 14 task a  script that displays lines containing the pattern root from the file
