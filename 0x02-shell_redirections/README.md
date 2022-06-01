@@ -22,3 +22,4 @@ a script that displays the third line of the file iacta
 19 task 19 a script that replace all character A and C from input to Z and E  respectively
 20 task 20 A script that removes all letter C and C from input
 21 task a script  that reverse its input
+22 task 22 script that displays all users and thier home directoires, sorted by users
