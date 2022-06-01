@@ -23,3 +23,4 @@ a script that displays the third line of the file iacta
 20 task 20 A script that removes all letter C and C from input
 21 task a script  that reverse its input
 22 task 22 script that displays all users and thier home directoires, sorted by users
+23 task 23 a script that finds all empty files and directories in the current directory
