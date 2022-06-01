@@ -9,3 +9,4 @@ this a script that display content of the /etc/passwd file
 a script that displays the third line of the file iacta
  7 task a scriipt that creates a file names exactly best school 
 8 task 8 a script that writes into the file ls_cwd_content
+9 task 9 a script that duplicates the last line of the file iacta
