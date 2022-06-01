@@ -25,3 +25,4 @@ a script that displays the third line of the file iacta
 22 task 22 script that displays all users and thier home directoires, sorted by users
 23 task 23 a script that finds all empty files and directories in the current directory
 24 TASK 24 a script that lists all files with a gif extensions in the current directory and all sub directories
+25 task 25 a Script that  decodes acrsotic  that uses the first letter of each line
