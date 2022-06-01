@@ -24,3 +24,4 @@ a script that displays the third line of the file iacta
 21 task a script  that reverse its input
 22 task 22 script that displays all users and thier home directoires, sorted by users
 23 task 23 a script that finds all empty files and directories in the current directory
+24 TASK 24 a script that lists all files with a gif extensions in the current directory and all sub directories
